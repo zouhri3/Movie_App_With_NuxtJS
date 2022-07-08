@@ -21,9 +21,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   target: "static",
-  router: {
-    base: "/Movie_App_With_NuxtJS/",
-  },
+  
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
